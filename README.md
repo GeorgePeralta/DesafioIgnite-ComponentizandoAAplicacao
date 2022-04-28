@@ -26,6 +26,14 @@ Navegue até a pasta criada, abra no Visual Studio Code e execute os seguintes c
  * src/components/Content.tsx
  * src/components/SideBar.tsx
 
+<p align="center"> 
+  <img src="https://github.com/GeorgePeralta/DesafioIgnite-ComponentizandoAAplicacao/blob/main/Componentizando_a_Aplica_o_ReactJS.gif" />
+</p>
 
+### 🛠 Tecnologias
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
   
   ##### [LinkedIn - George Peralta](https://www.linkedin.com/in/georgeperaltadias/)
